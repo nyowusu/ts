@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "jest",
-    "start": "lite-server"
+    "start": "lite-server",
+    "dev": "tsc --watch"
   },
   "author": "nyowusu",
   "license": "ISC",
